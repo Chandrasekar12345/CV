@@ -16,6 +16,10 @@ body
             height: 100px;
             
         }
+        img:hover
+                {
+              background-color:green;
+                }
         h1,h3
         {
             color:#66BFBF;
